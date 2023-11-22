@@ -175,12 +175,17 @@ Industrial Estate.
 ```
 
 ## OUTPUT
-![Alt text](1.png)
-![Alt text](Arni.png)
-![Alt text](Titan.png)
-![Alt text](temple.png)
-![Alt text](Theatre.png)
-![Alt text](<IFB point.png>)
+![1](https://github.com/Preethijgan/NearMe/assets/144870652/63d6b7e5-c94b-414f-a1cc-2eaf417718d2)
+![Arni](https://github.com/Preethijgan/NearMe/assets/144870652/ae524c17-c86a-4829-bdb0-daa3dca8c16d)
+![temple](https://github.com/Preethijgan/NearMe/assets/144870652/d4162870-0928-42fd-9bc0-579d69545b3b)
+![Theatre](https://github.com/Preethijgan/NearMe/assets/144870652/b62628b7-d7e3-447d-8c2c-42fdb5554c84)
+![Titan](https://github.com/Preethijgan/NearMe/assets/144870652/87b77952-7131-4228-b94d-8821ee9c88ef)
+![IFB point](https://github.com/Preethijgan/NearMe/assets/144870652/8471eeb9-41ee-4946-a17a-0cec79f01105)
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
