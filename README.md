@@ -25,6 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+hom.html
 <html>
 <head>
 <title>My Hometown</title>
@@ -169,6 +171,8 @@ Industrial Estate.
 </p>
 </body>
 </html>
+
+```
 
 ## OUTPUT
 ![Alt text](1.png)
