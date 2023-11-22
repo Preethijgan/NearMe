@@ -50,15 +50,17 @@ Execute the programs and publish them.
 </html>
 
 home.html
-
 <html>
 <head>
 <title>My Home Town</title>
 </head>
 <body bgcolor="grey">
 <h1 align="center">
-<font color="black"><b>Arni-The Silk City</b></font>
+<font color="black"><b>Arni</b></font>
 </h1>
+<h3 align="center">
+<font color="white"><b>The silk city</b></font>
+</h3>
 <hr size="3" color="white">
 <p align="justify">
 <font face="Georgia" size="5">
@@ -72,56 +74,18 @@ center of Tamil Jainism.
 </body>
 </html>
 
-titan.html
-
-<html>
-<head>
-<title>My Home Town</title>
-</head>
-<body bgcolor="grey">
-<h1 align="center">
-<font color="black"><b>Titan World</b></font>
-</h1>
-<hr size="3" color="white">
-<p align="justify">
-<font face="Georgia" size="5">
-        Titan world is the one spot fashion destination. Our exhaustive collection is inpspired by international fahion and trend style.
-Over the years, titan has been tremendously successful in making wide product starting from watches, walll clocks to wallets
-belts and straps.
-</p>
-</body>
-</html>
-
-theatre.html
-
-<html>
-<head>
-<title>My Home Town</title>
-</head>
-<body bgcolor="grey">
-<h1 align="center">
-<font color="black"><b>Rajeswari Theatre</b></font>
-</h1>
-<hr size="3" color="white">
-<p align="justify">
-<font face="Georgia" size="5">
-    Rajeswari theatre is one of the most ancient theatre in Arni. At Rajeswari Theatre A/C 4K 3D, you can instantly booktickets both online
-and offline for upcoming and current movie and choose the most suited seats you want. The movie experience at Rajeswari Theatre
-was just awesome.
-</p>
-</body>
-</html>
-
 temple.html
-
 <html>
 <head>
 <title>My Home Town</title>
 </head>
 <body bgcolor="grey">
 <h1 align="center">
-<font color="black"><b>Puthirakameshwarar Temple</b></font>
+<font color="black"><b>Arni-The silk City</b></font>
 </h1>
+<h3 align="center">
+<font color="white"><b>Puthirakameshwarar Temple</b></font>
+</h3>
 <hr size="3" color="white">
 <p align="justify">
 <font face="Georgia" size="5">
@@ -134,6 +98,52 @@ will reward them with a child, they believe.
 </body>
 </html>
 
+theatre.html
+
+<html>
+<head>
+<title>My Home Town</title>
+</head>
+<body bgcolor="grey">
+<h1 align="center">
+<font color="black"><b>Arni-The silk city</b></font>
+</h1>
+<h3 align="center">
+<font color="white"><b>Rajeswari Theatre</b></font>
+</h3>
+<hr size="3" color="white">
+<p align="justify">
+<font face="Georgia" size="5">
+    Rajeswari theatre is one of the most ancient theatre in Arni. At Rajeswari Theatre A/C 4K 3D, you can instantly booktickets both online
+and offline for upcoming and current movie and choose the most suited seats you want. The movie experience at Rajeswari Theatre
+was just awesome.
+</p>
+</body>
+</html>
+
+titan.html
+
+<html>
+<head>
+<title>My Home Town</title>
+</head>
+<body bgcolor="grey">
+<h1 align="center">
+<font color="black"><b>Arni-The Silk City</b></font>
+</h1>
+<h3 align="center">
+<font color="white"><b>Titan world</b></font>
+</h3>
+<hr size="3" color="white">
+<p align="justify">
+<font face="Georgia" size="5">
+        Titan world is the one spot fashion destination. Our exhaustive collection is inpspired by international fahion and trend style.
+Over the years, titan has been tremendously successful in making wide product starting from watches, walll clocks to wallets
+belts and straps.
+</p>
+</body>
+</html>
+
 IFB.html
 
 <html>
@@ -142,8 +152,11 @@ IFB.html
 </head>
 <body bgcolor="grey">
 <h1 align="center">
-<font color="black"><b>IFB Point</b></font>
+<font color="black"><b>Arni-The Silk City</b></font>
 </h1>
+<h3 align="center">
+<font color="white"><b>IFB Point</b></font>
+</h3>
 <hr size="3" color="white">
 <p align="justify">
 <font face="Georgia" size="5">
