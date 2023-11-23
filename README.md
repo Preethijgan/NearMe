@@ -26,7 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-hom.html
+map.html
+
 <html>
 <head>
 <title>My Hometown</title>
@@ -81,7 +82,7 @@ temple.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="grey">
+<body bgcolor="blue">
 <h1 align="center">
 <font color="black"><b>Arni-The silk City</b></font>
 </h1>
@@ -106,7 +107,7 @@ theatre.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="grey">
+<body bgcolor="pink">
 <h1 align="center">
 <font color="black"><b>Arni-The silk city</b></font>
 </h1>
@@ -129,7 +130,7 @@ titan.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="grey">
+<body bgcolor="yellow">
 <h1 align="center">
 <font color="black"><b>Arni-The Silk City</b></font>
 </h1>
@@ -152,7 +153,7 @@ IFB.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="grey">
+<body bgcolor="lightblue">
 <h1 align="center">
 <font color="black"><b>Arni-The Silk City</b></font>
 </h1>
@@ -172,16 +173,18 @@ Industrial Estate.
 </body>
 </html>
 
+
+
+
 ```
 
 ## OUTPUT
 ![1](https://github.com/Preethijgan/NearMe/assets/144870652/63d6b7e5-c94b-414f-a1cc-2eaf417718d2)
-![Arni](https://github.com/Preethijgan/NearMe/assets/144870652/ae524c17-c86a-4829-bdb0-daa3dca8c16d)
-![temple](https://github.com/Preethijgan/NearMe/assets/144870652/d4162870-0928-42fd-9bc0-579d69545b3b)
-![Theatre](https://github.com/Preethijgan/NearMe/assets/144870652/b62628b7-d7e3-447d-8c2c-42fdb5554c84)
-![Titan](https://github.com/Preethijgan/NearMe/assets/144870652/87b77952-7131-4228-b94d-8821ee9c88ef)
-![IFB point](https://github.com/Preethijgan/NearMe/assets/144870652/8471eeb9-41ee-4946-a17a-0cec79f01105)
-
+![arni](https://github.com/Preethijgan/NearMe/assets/144870652/54079afd-c1c3-4c55-a636-16244984cd3d)
+![Temple](https://github.com/Preethijgan/NearMe/assets/144870652/a67e3de5-c559-44f5-a64b-7a54ef1a66ab)
+![Theatre](https://github.com/Preethijgan/NearMe/assets/144870652/46f66dd2-7c7e-491b-82cb-492a2e6efb37)
+![titan](https://github.com/Preethijgan/NearMe/assets/144870652/f59e4699-f371-4281-aad2-b048abe74f5f)
+![IFB](https://github.com/Preethijgan/NearMe/assets/144870652/384791b5-7adc-4271-87eb-9cf5ef94310c)
 
 
 
